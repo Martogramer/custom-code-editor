@@ -1,3 +1,15 @@
+
+////////////////////////////////////////////////////////////////
+   - Electron - a framework for building cross-platform desktop apps with Js, Html n Css
+   - Vite - A fast build tool for web apps ( webpack alternative )
+   - TfypeScript - a typed Javascript language
+   - React - a JS library for building UI
+   - CodeMirror 6 - an extensible code editor for the web
+   - Remark - An extensible Markdown processor
+////////////////////////////////////////////////////////////////
+    create a repository from a project boilerplate
+    clone the repository
+
 # Vite Electron Builder Boilerplate
 
 ----
